@@ -1,0 +1,206 @@
+[
+  {
+    "question": "Which of the following is NOT a fruit?",
+    "choices": ["Rhubarb", "Tomatoes", "Avocados"],
+    "correct": 0
+  },
+  {
+    "question": "Where was the first example of paper money used?",
+    "choices": ["China", "Turkey", "Greece"],
+    "correct": 0
+  },
+  {
+    "question": "Which city hosted the 2002 Olympic Games?",
+    "choices": ["Tokyo", "Beijing", "Sydney"],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following languages has the longest alphabet?",
+    "choices": ["Greek", "Russian", "Arabic"],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following apps has the most total users?",
+    "choices": ["TikTok", "Snapchat", "Instagram"],
+    "correct": 2
+  },
+  {
+    "question": "Who directed the Academy Award-winning film, Gladiator?",
+    "choices": ["Ridley Scott", "James Cameron", "Steven Soderbergh"],
+    "correct": 0
+  },
+  {
+    "question": "How long did dinosaurs live on the earth?",
+    "choices": [
+      "100-150 million years",
+      "150-200 million years",
+      "200+ million years"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which is the strongest muscle in the human body?",
+    "choices": ["Jaw", "Heart", "Glutes"],
+    "correct": 0
+  },
+  {
+    "question": "The fear of insects is known as what?",
+    "choices": ["Entomaphobia", "Arachnophobia", "Ailurophobia"],
+    "correct": 0
+  },
+  {
+    "question": "Who is generally considered the inventor of the motor car?",
+    "choices": ["Henry Ford", "Karl Benz", "Henry M. Leland"],
+    "correct": 1
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "choices": ["Sydney", "Melbourne", "Canberra"],
+    "correct": 2
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "choices": ["William Shakespeare", "Charles Dickens", "Jane Austen"],
+    "correct": 0
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "choices": ["H2O", "CO2", "NaCl"],
+    "correct": 0
+  },
+  {
+    "question": "In which year did World War I begin?",
+    "choices": ["1914", "1918", "1939"],
+    "correct": 0
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "choices": ["Mars", "Jupiter", "Saturn"],
+    "correct": 1
+  },
+  {
+    "question": "Which country is famous for the ancient pyramids?",
+    "choices": ["Greece", "Egypt", "Italy"],
+    "correct": 1
+  },
+  {
+    "question": "Who was the first person to step foot on the moon?",
+    "choices": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin"],
+    "correct": 1
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "choices": ["Ag", "Au", "Fe"],
+    "correct": 1
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "choices": ["Amazon", "Nile", "Mississippi"],
+    "correct": 0
+  },
+  {
+    "question": "What is the primary ingredient in guacamole?",
+    "choices": ["Avocado", "Tomato", "Onion"],
+    "correct": 0
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "choices": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh"],
+    "correct": 0
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "choices": ["Elephant", "Blue whale", "Giraffe"],
+    "correct": 1
+  },
+  {
+    "question": "Which continent is the largest by land area?",
+    "choices": ["Africa", "Asia", "North America"],
+    "correct": 1
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "choices": ["Mark Twain", "Harper Lee", "J.K. Rowling"],
+    "correct": 1
+  },
+  {
+    "question": "What is the chemical symbol for oxygen?",
+    "choices": ["O2", "O", "CO2"],
+    "correct": 1
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "choices": ["K2", "Mount Everest", "Kangchenjunga"],
+    "correct": 1
+  },
+  {
+    "question": "What is the main ingredient in sushi?",
+    "choices": ["Fish", "Rice", "Seaweed"],
+    "correct": 1
+  },
+  {
+    "question": "Which planet is known as the 'Red Planet'?",
+    "choices": ["Venus", "Mars", "Jupiter"],
+    "correct": 1
+  },
+  {
+    "question": "Who is credited with discovering penicillin?",
+    "choices": ["Alexander Fleming", "Marie Curie", "Louis Pasteur"],
+    "correct": 0
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "choices": ["Monaco", "Vatican City", "Liechtenstein"],
+    "correct": 1
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "choices": ["F. Scott Fitzgerald", "Ernest Hemingway", "Virginia Woolf"],
+    "correct": 0
+  },
+  {
+    "question": "What is the chemical symbol for carbon?",
+    "choices": ["C", "Ca", "Co"],
+    "correct": 0
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "choices": ["Cheetah", "Lion", "Gazelle"],
+    "correct": 0
+  },
+  {
+    "question": "Who composed 'The Four Seasons'?",
+    "choices": ["Mozart", "Beethoven", "Vivaldi"],
+    "correct": 2
+  },
+  {
+    "question": "Which gas do plants use for photosynthesis?",
+    "choices": ["Oxygen", "Carbon dioxide", "Nitrogen"],
+    "correct": 1
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "choices": ["Liver", "Skin", "Heart"],
+    "correct": 1
+  },
+  {
+    "question": "Who painted 'Starry Night'?",
+    "choices": ["Vincent van Gogh", "Claude Monet", "Pablo Picasso"],
+    "correct": 0
+  },
+  {
+    "question": "What is the capital city of Japan?",
+    "choices": ["Seoul", "Tokyo", "Beijing"],
+    "correct": 1
+  },
+  {
+    "question": "What is the chemical symbol for silver?",
+    "choices": ["Si", "Ag", "S"],
+    "correct": 1
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "choices": ["Sahara Desert", "Arabian Desert", "Antartica"],
+    "correct": 2
+  }
+]
